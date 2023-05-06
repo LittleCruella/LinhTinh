@@ -1,0 +1,3 @@
+﻿  roads_and_libraries.cpp
+C:\Users\Asus\Desktop\New folder\roads_and_libraries\roads_and_libraries\roads_and_libraries.cpp(62,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  roads_and_libraries.vcxproj -> C:\Users\Asus\Desktop\New folder\roads_and_libraries\x64\Debug\roads_and_libraries.exe

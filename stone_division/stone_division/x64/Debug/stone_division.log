@@ -1,0 +1,4 @@
+﻿  stone_division.cpp
+C:\Users\Asus\Desktop\New folder\stone_division\stone_division\stone_division.cpp(48,9): warning C4101: 'a': unreferenced local variable
+C:\Users\Asus\Desktop\New folder\stone_division\stone_division\stone_division.cpp(48,12): warning C4101: 'b': unreferenced local variable
+  stone_division.vcxproj -> C:\Users\Asus\Desktop\New folder\stone_division\x64\Debug\stone_division.exe
